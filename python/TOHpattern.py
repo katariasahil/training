@@ -11,3 +11,5 @@ while(row<max):
     val= val+add
     row = row+1
 
+for i in range(1,max,2):
+    print(Line )
